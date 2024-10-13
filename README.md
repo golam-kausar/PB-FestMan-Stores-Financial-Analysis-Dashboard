@@ -1,1 +1,2 @@
-# PB-FestMan-Stores-Financial-Analysis-Dashboard
+# Power BI-FestMan-Stores-Financial-Analysis-Dashboard
+#### This project involves the creation of a Power BI financial analysis dashboard for FestMan Stores to provide key insights into business performance. The dashboard presents critical metrics, including sales, orders, profit margins, and discounts, with comparisons to the previous year’s figures. It includes visualizations of orders by country, profit margin by discount bands, and top products by sales. By offering an intuitive view of sales trends and profitability across segments, the dashboard aids in data-driven decision-making and helps optimize business strategies.
